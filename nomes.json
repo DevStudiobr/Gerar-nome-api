@@ -1,4 +1,4 @@
 {
-    "nomes": ["Alice", "Bob", "Carlos", "Diana", "Eduardo"],
-    "sobrenomes": ["Silva", "Oliveira", "Santos", "Souza", "Pereira"]
+    "firstNames": ["Alice", "Bob", "Carlos", "Diana", "Eduardo"],
+    "lastNames": ["Silva", "Oliveira", "Santos", "Souza", "Pereira"]
 }
